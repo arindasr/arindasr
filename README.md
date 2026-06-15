@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&lines=Welcome+to+my+GitHub+!" />
 </p>
 
-# Hi there, I'm Arin 👋
+# Hi there, I'm Arin >ᴗ<
 
 🎓 **Computer Science Student** <br/>
 💻 Passionate about **Data Analytics**, **UI/UX Design**, and **Web Development**.
