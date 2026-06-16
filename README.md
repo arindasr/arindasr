@@ -13,7 +13,7 @@ I love turning complex data into clear insights and transforming creative design
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,react,tailwind,js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,python,react,vite,tailwind,js,html,css,git,github,vscode,figma,linux" />
 </p>
 
 <br/>
@@ -25,7 +25,7 @@ I love turning complex data into clear insights and transforming creative design
 
 <br/>
 
-## 📫 Connect with me
+## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/arinda-setyo-rini" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
