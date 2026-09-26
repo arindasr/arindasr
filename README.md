@@ -6,9 +6,12 @@
 
 ###
 
-<p align="justify">
+<p align="left">
   🎓 Computer Science Student<br>
-  💻 Passionate about Front-End Development, UI/UX Design, and Data Analytics.<br><br>
+  💻 Passionate about Front-End Development, UI/UX Design, and Data Analytics.
+</p>
+
+<p align="justify" style="padding: 0 10px;">
   I enjoy turning ideas into responsive, interactive, and user-friendly web applications that combine clean design with modern technologies. I strive to create intuitive digital experiences while continuously exploring data analytics to transform complex data into meaningful insights and support data-driven solutions.
 </p>
 
@@ -16,14 +19,21 @@
 
 <br clear="both">
 
-<p align="center">
+<picture data-importer="pacman">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/arindasr/arindasr/output/pacman-contribution-graph-dark.svg?game=pacman"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/arindasr/arindasr/output/pacman-contribution-graph.svg?game=pacman"
+  >
   <img
-    src="https://raw.githubusercontent.com/arindasr/arindasr/pacman-output/pacman-contribution-graph.svg"
-    alt="Pacman Contribution Graph"
-  />
-</p>
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/arindasr/arindasr/output/pacman-contribution-graph.svg?game=pacman"
+  >
+</picture>
 
-###
 
 <br clear="both">
 
